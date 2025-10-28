@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 1. ANIMATED HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhijith%20K%20Sajeev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20%7C%20Data%20Science%20%7C%20IoT%20Enthusiast&descSize=16&descAlignY=51" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhijith%20K%20Sajeev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Graduate%20%7C%20Data%20Science%20%7C%20IoT%20Enthusiast&descSize=16&descAlignY=51" width="100%"/>
 
 </div>
 
@@ -95,7 +95,7 @@ const abhijith = {
   <br/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIjithGT&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ABHIjithGT&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak Stats"/>
   
 </div>
 
@@ -279,7 +279,5 @@ const currentGoals = {
   ### ⭐ **If you find my work interesting, don't forget to star my repositories!** ⭐
   
   **Made with ❤️ by Abhijith K Sajeev**
-  
-  ![Snake animation](https://raw.githubusercontent.com/ABHIjithGT/ABHIjithGT/output/github-contribution-grid-snake-dark.svg)
   
 </div>
